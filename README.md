@@ -12,6 +12,20 @@ VLDB15:The Dataflow Model: A Practical Approach to Balancing Correctness, Latenc
 
 VLDB15:Collaborative Data Analytics with DataHub
 
+SIGMOD15:Apache Tez: A Unifying Framework for Modeling and Building Data Processing Applications
+
+SIGMOD15:Spark SQL: Relational Data Processing in Spark
+
+SIGMOD15:Design and Implementation of the LogicBlox System
+
+SIGMOD15:REEF: Retainable Evaluator Execution Framework
+
+SIGMOD15:Large-scale Predictive Analytics in Vertica: Fast Data Transfer, Distributed Model Creation, and In-database Prediction
+
+SIGMOD15:Oracle Workload Intelligence
+
+SIGMOD15:On Improving User Response Times in Tableau
+
 VLDB14:epiC: an Extensible and Scalable System for Processing Big Data
 
 VLDB14:WideTable: An Accelerator for Analytical Data Processing
@@ -82,6 +96,12 @@ VLDB12:ASTERIX: An Open Source System for "Big Data" Management and Analysis (De
 
 VLDB12:Model-based Integration of Past & Future in TimeTravel
 
+VLDB11:Using Paxos to Build a Scalable, Consistent, and Highly Available Datastore
+
+VLDB11:Online Expansion of Large-Scale Data Warehouses
+
+VLDB11: VLDB11:Profiling, What-if Analysis, and Cost-based Optimization of MapReduce Programs
+
 
 
 ## Time Series
@@ -99,6 +119,18 @@ VLDB13:Storing and Processing Temporal Data in a Main Memory Column Store
 
 
 ## Stream
+SIGMOD15:Twitter Heron: Stream Processing at Scale
+
+SIGMOD15:Persistent Data Sketching
+
+SIGMOD15:Scalable Distributed Stream Join Processing
+
+SIGMOD15:SCREEN: Stream Data Cleaning under Speed Constraints
+
+SIGMOD15:CE-Storm: Confidential Elastic Processing of Data Streams
+
+SIGMOD15:Quality-Driven Continuous Query Execution over Out-of-Order Data Streams
+
 VLDB14:High Performance Stream Query Processing With Correlation-Aware Partitioning
 
 VLDB12:Sketch-based Querying of Distributed Sliding-Window Data Streams
@@ -108,6 +140,10 @@ VLDB12:Spinning Fast Iterative Data Flows
 VLDB12:Building User-defined Runtime Adaptation Routines for Stream Processing Applications
 
 VLDB12:MonetDB/DataCell: Online Analytics in a Streaming Column-Store
+
+VLDB11:Active Complex Event Processing over Event Streams
+
+VLDB11:Massive Scale-out of Expensive Continuous Queries
 
 
 ## Interactive / time constriant
@@ -119,13 +155,23 @@ VLDB15:Real-Time Analytical Processing with SQL Server
 
 VLDB15:Real Time Analytics: Algorithms and Systems
 
+SIGMOD15:Analytics in Motion: High Performance Event-Processing AND Real-Time Analytics in the Same Database
+
 VLDB14:Scalable Progressive Analytics on Big Data in the Cloud
 
 VLDB12:Optimization of Analytic Window Functions
 
+VLDB11:Analytics for the Real-Time Web
+
+VLDB11:UpStream: A Storage-centric Load Management System for Real-time Update Streams
+
 
 ## Query Optimization
 VLDB15:query optmization in Oracle 12c Database In-Memory
+
+SIGMOD15:The Flatter, the Better: Query Compilation Based on the Flattening Transformation
+
+SIGMOD15:An Incremental Anytime Algorithm for Multi-Objective Query Optimization
 
 VLDB14:Shared Workload Optimization
 
@@ -153,15 +199,19 @@ VLDB12:PET: Reducing Database Energy Cost via Query Optimization
 
 
 ## DB General
-VLDB15:Stale View Cleaning: Getting Fresh Answers from Stale materialized views
+VLDB15:In-Memory Performance for Big Data
 
 VLDB15:Smart Drill-Down: A New Data Exploration Operator
 
+SIGMOD15:Locality-aware Partitioning in Parallel Database Systems
+
+SIGMOD15:Rethinking SIMD Vectorization for In-Memory Databases
+
+SIGMOD15:One Loop Does Not Fit All
+
+SIGMOD15:DunceCap: Compiling Worst-Case Optimal Query Plans
+
 VLDB14:Trekking Through Siberia: Managing Cold Data in a Memory-Optimized Database
-
-VLDB12:DBToaster: Higher order delta processing for dynamic frequently fresh views
-
-VLDB15:In-Memory Performance for Big Data
 
 
 ## Approximate Evaluation
@@ -172,6 +222,8 @@ BlinkDB
 VLDB14:A Sampling Algebra for Aggregate Estimation
 
 VLDB12:Early Accurate Results for Advanced Analytics on MapReduce
+
+VLDB11:Structure-Aware Sampling: Flexible and Accurate Summarization
 
 
 ## Cost and Statistics
@@ -197,6 +249,30 @@ VLDB12:Towards Energy-Efficient Database Cluster Design
 
 VLDB12:Building Wavelet Histograms on Large Data in MapReduce
 
+VLDB11:MapReduce Programming and Cost-based Optimization? Crossing this Chasm with Starfish
+
+VLDB11:Profiling, What-if Analysis, and Cost-based Optimization of MapReduce Programs
+
+VLDB11:Storing Matrices on Disk: Theory and Practice Revisited
+
+
+## Storage
+SIGMOD15:ByteSlice: Pushing the Envelop of Main Memory Data Processing with a New Storage Layout
+
+SIGMOD15:Telco Churn Prediction with Big Data
+
+VLDB13:LLAMA: A Cache/Storage Subsystem for Modern Hardware
+
+VLDB12:A Storage Advisor for Hybrid-Store Databases
+
+VLDB12:Relative Lempel-Ziv Factorization for Efficient Storage and Retrieval of Web Collections
+
+VLDB11:HYRISE - A Main Memory Hybrid Storage Engine
+
+VLDB11:Column-Oriented Storage Techniques for MapReduce
+
+VLDB11:Compression Aware Physical Database Design
+
 
 ## Index
 VLDB15:Indexing Highly Dynamic Hierarchical Data 
@@ -204,6 +280,8 @@ VLDB15:Indexing Highly Dynamic Hierarchical Data
 VLDB15:BF-Tree: Approximate Tree Indexing 
 
 VLDB15:Compressed Spatial Hierarchical Bitmap (cSHB) Indexes for Efficiently Processing Spatial Range Query Workloads
+
+SIGMOD15:Holistic Indexing in Main-memory Column-stores
 
 VLDB14:The Uncracked Pieces in Database Cracking
 
@@ -219,18 +297,43 @@ VLDB13:A Data-adaptive and Dynamic Segmentation Index for Whole Matching on Time
 
 VLDB13:Efficient Indexing for Diverse Query Results
 
-VLDB13:LLAMA: A Cache/Storage Subsystem for Modern Hardware
-
 VLDB12:Semi-Automatic Index Tuning: Keeping DBAs in the Loop
 
 VLDB12:Stochastic Database Cracking: Towards Robust Adaptive Indexing in Main-Memory Column-Stores
 
+VLDB11:CoPhy: A Scalable, Portable, and Interactive Index Advisor for Large Workloads
+
+VLDB11:Workload Driven Index Defragmentation
+
+VLDB11:A Framework for Supporting DBMS-like Indexes in the Cloud
+
+VLDB11:Merging What's Cracked, Cracking What's Merged: Adaptive Indexing in Main-Memory Column
+
+
+## View
+VLDB15:Stale View Cleaning: Getting Fresh Answers from Stale materialized views
+
+SIGMOD15:Utilizing IDs to Accelerate Incremental View Maintenance
+
+VLDB12:DBToaster: Higher order delta processing for dynamic frequently fresh views
+
+
+## Aggregation
+SIGMOD15:Cache-Efficient Aggregation: Hashing Is Sorting
+
+SIGMOD15:G-OLA: Generalized On-Line Aggregation for Interactive Analysis on Big Data
+
+VLDB11:Online Aggregation for Large MapReduce Jobs
 
 
 ## Join
 VLDB15:Memory-Efficient Hash Joins
 
 VLDB15:Improving Main Memory Hash Joins on Intel Xeon Phi Processors: An Experimental Approach
+
+SIGMOD15:From Theory to Practice: Efficient Join Query Evaluation in a Parallel Database System
+
+VLDB14:Execution Primitives for Scalable Joins and Aggregations in Map Reduce
 
 VLDB14:Multi-Core, Main-Memory Joins: Sort vs. Hash Revisited
 
@@ -239,6 +342,8 @@ VLDB14:Advanced Join Strategies for Large-Scale Distributed Computation
 VLDB14:Interactive Join Query Inference with JIM
 
 VLDB12:Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems
+
+VLDB11:Accelerating Queries with Group-By and Join by Groupjoin
 
 
 ## ETL
@@ -267,14 +372,12 @@ VLDB13:Big Data Integration
 
 VLDB13:Less is More: Selecting Sources Wisely for Integration
 
-VLDB12:Relative Lempel-Ziv Factorization for Efficient Storage and Retrieval of Web Collections
-
 VLDB12:Dedoop: Efficient Deduplication with Hadoop
 
 VLDB12:Entity Resolution: Theory, Practice & Open Challenges
 
 
-## MapReduce Optmization
+## MapReduce Optimization
 VLDB15:Shared Execution of Recurring Workloads in MapReduce
 
 VLDB15:Spatial Partitioning Techniques in SpatialHadoop
@@ -286,8 +389,6 @@ VLDB14:Multi-Query Optimization in MapReduce Framework
 VLDB14:Optimization for iterative queries on MapReduce
 
 VLDB14:SQL-on-Hadoop: Full Circle Back to Shared-Nothing Database Architectures(Hive vs Tez vs Impala)
-
-VLDB14:Execution Primitives for Scalable Joins and Aggregations in Map Reduce
 
 VLDB14:Understanding Insights into the Basic Structure and Essential Issues of Table Placement Methods in Clusters
 
@@ -323,6 +424,10 @@ VLDB12:Efficient Big Data Processing in Hadoop MapReduce
 
 VLDB12:MapReduce Algorithms for Big Data Analysis
 
+VLDB11:Automatic Optimization for MapReduce Programs
+
+VLDB11:CoHadoop: Flexible Data Placement and Its Exploitation in Hadoop
+
 
 
 ## DB & Hardware
@@ -339,6 +444,8 @@ VLDB15:Databases and Hardware: The Beginning and Sequel of a Beautiful Friendshi
 VLDB15:SIMD- and Cache-Friendly Algorithm for sorting an array of structure
 
 VLDB15:Scaling Up Concurrent Main-Memory Column-Store Scans: Towards Adaptive NUMA-aware Data and Task Placement
+
+SIGMOD15:JAFAR: Near-Data Processing for Databases
 
 VLDB14:CPU Sharing Techniques for Performance Isolation in Multi-tenant Relational Database-as-a-Service
 
@@ -366,7 +473,21 @@ VLDB13:Why it is time for a HyPE: A Hybrid Query Processing Engine for Efficient
 
 VLDB12:hStorage-DB: Heterogeneity-aware Data Management to Exploit the Full Capability of Hybrid Storage Systems
 
-VLDB12:A Storage Advisor for Hybrid-Store Databases
-
 VLDB12:I/O Characteristics of NoSQL Databases
 
+VLDB11:Fast Set Intersection in Memory
+
+VLDB11:Efficiently Compiling Efficient Query Plans for Modern Hardware
+
+
+## Tutorial
+
+SIGMOD15:Overview of Data Exploration Techniques
+
+SIGMOD15:Data Management in Non-Volatile Memory
+
+VLDB11:New Frontiers in Business Intelligence
+
+VLDB11:Data is Dead... Without What-if Models
+
+VLDB11:System Co-Design and Data Management for Flash Devices

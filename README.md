@@ -46,6 +46,16 @@ VLDB14:Anti-Caching: A New Approach to Database Management System Architecture
 
 VLDB14:Simple, Fast, and Scalable Reachability Oracle
 
+SIGMOD14:Sinew: A SQL System for Multi-Structured Data
+
+SIGMOD14:Partial Results in Database Systems
+
+SIGMOD14:Towards Unified Ad-hoc Data Processing
+
+SIGMOD14:HAWQ: A Massively Parallel Processing SQL Engine in Hadoop 
+
+SIGMOD14:Major Technical Advancements in Apache Hive 
+
 VLDB13:MillWheel: Fault-Tolerant Stream Processing at Internet Scale
 
 VLDB13:F1: A Distributed SQL Database That Scales
@@ -133,6 +143,12 @@ SIGMOD15:Quality-Driven Continuous Query Execution over Out-of-Order Data Stream
 
 VLDB14:High Performance Stream Query Processing With Correlation-Aware Partitioning
 
+SIGMOD14:Complex Event Analytics: Online Aggregation of Stream Sequence Patterns
+
+SIGMOD14:On Complexity and Optimization of Expensive Queries in Complex Event Processing
+
+SIGMOD14:Storm @Twitter
+
 VLDB12:Sketch-based Querying of Distributed Sliding-Window Data Streams
 
 VLDB12:Spinning Fast Iterative Data Flows
@@ -159,6 +175,10 @@ SIGMOD15:Analytics in Motion: High Performance Event-Processing AND Real-Time An
 
 VLDB14:Scalable Progressive Analytics on Big Data in the Cloud
 
+SIGMOD14:Druid: A Real-time Analytical Data Store
+
+SIGMOD14:OceanRT: Real-Time Analytics over Large Temporal Data
+
 VLDB12:Optimization of Analytic Window Functions
 
 VLDB11:Analytics for the Real-Time Web
@@ -178,6 +198,24 @@ VLDB14:Shared Workload Optimization
 VLDB14:Code generation for efficient query processing in managed runtimes
 
 VLDB14:Adaptive Range Filters for Cold Data: Avoiding Trips to Siberia
+
+SIGMOD14:Dynamically Optimizing Queries over Large Scale Data Platforms
+
+SIGMOD14:Query Shredding: Efficient Relational Evaluation of Queries over Nested Multisets
+
+SIGMOD14:Approximation Schemes for Many-Objective Query Optimization
+
+SIGMOD14:Parallel In-Situ Data Processing with Speculative Loading
+
+SIGMOD14:Orca: A Modular Query Optimizer Architecture for Big Data
+
+SIGMOD14:Optimizing Queries over Partitioned Tables in MPP Systems
+
+SIGMOD14:Parallel I/O aware query optimization
+
+SIGMOD14:Versatile Optimization of UDF-heavy Data Flows with Sofa
+
+SIGMOD14:Reactive and Proactive Sharing Across Concurrent Analytical Queries
 
 VLDB13:PAQO: A Preference-Aware Query Optimizer for PostgreSQL
 
@@ -213,6 +251,12 @@ SIGMOD15:DunceCap: Compiling Worst-Case Optimal Query Plans
 
 VLDB14:Trekking Through Siberia: Managing Cold Data in a Memory-Optimized Database
 
+SIGMOD14:Sloth: Being Lazy is a Virtue (When Issuing Database Queries)
+
+SIGMOD14:Versatile Optimization of UDF-heavy Data Flows with Sofa
+
+SIGMOD14:Palette: Enabling Scalable Analytics for Big-Memory, Multicore Machines 
+
 
 ## Approximate Evaluation
 VLDB14:Error-bounded Sampling for Analytics on Big Sparse Data
@@ -220,6 +264,10 @@ VLDB14:Error-bounded Sampling for Analytics on Big Sparse Data
 BlinkDB
 
 VLDB14:A Sampling Algebra for Aggregate Estimation
+
+SIGMOD14:The Analytical Bootstrap: a New Method for Fast Error Estimation in Approximate Query Processing
+
+SIGMOD14:ABS: a System for Scalable Approximate Queries with Accuracy Guarantees
 
 VLDB12:Early Accurate Results for Advanced Analytics on MapReduce
 
@@ -234,6 +282,12 @@ VLDB15:Multi-Objective Parametric Query Optimization
 VLDB15:join size estimation subject to filter conditions
 
 VLDB14:Scalable Discovery of Unique Column Combinations
+
+SIGMOD14:Plan Bouquets: Query Processing without Selectivity Estimation
+
+SIGMOD14:Histograms as a Side Effect of Data Movement for Big Data
+
+SIGMOD14:Exploiting Ordered Dictionaries to Efficiently Construct Histograms with Q-Error Guarantees in SAP HANA
 
 VLDB13:Upper and Lower Bounds on the Cost of a Map-Reduce Computation
 
@@ -260,6 +314,16 @@ VLDB11:Storing Matrices on Disk: Theory and Practice Revisited
 SIGMOD15:ByteSlice: Pushing the Envelop of Main Memory Data Processing with a New Storage Layout
 
 SIGMOD15:Telco Churn Prediction with Big Data
+
+SIGMOD14:MISO: Souping Up Big Data Query Processing with a Multistore System
+
+SIGMOD14:Durable Write Cache in Flash Memory SSD for Relational and NoSQL Databases 
+
+SIGMOD14:Fast database restarts at Facebook
+
+SIGMOD14:SpongeFiles: Mitigating Data Skew in MapReduce Using Distributed Memory
+
+SIGMOD14:Leveraging Compression in the Tableau Data Engine 
 
 VLDB13:LLAMA: A Cache/Storage Subsystem for Modern Hardware
 
@@ -291,6 +355,14 @@ VLDB14:DGFIndex for Smart Grid: Enhancing Hive with a Cost-Effective Multidimens
 
 VLDB14:Indexing HDFS Data in PDW: Splitting the data from the index
 
+SIGMOD14:H2O: A Hands-free Adaptive Store
+
+SIGMOD14:Fine-grained Partitioning for Aggressive Data Skipping
+
+SIGMOD14:Indexing for Interactive Exploration of Big Data Series
+
+SIGMOD14:Indexing on Modern Hardware: Hekaton and Beyond 
+
 VLDB13:A Performance Study of Three Disk-based Structures for Indexing and Querying Frequent Itemsets
 
 VLDB13:A Data-adaptive and Dynamic Segmentation Index for Whole Matching on Time Series
@@ -314,6 +386,8 @@ VLDB11:Merging What's Cracked, Cracking What's Merged: Adaptive Indexing in Main
 VLDB15:Stale View Cleaning: Getting Fresh Answers from Stale materialized views
 
 SIGMOD15:Utilizing IDs to Accelerate Incremental View Maintenance
+
+SIGMOD14:LINVIEW: Incremental View Maintenance for Complex Analytical Queries
 
 VLDB12:DBToaster: Higher order delta processing for dynamic frequently fresh views
 
@@ -366,6 +440,8 @@ VLDB15:Preference-aware Integration of Temporal Data
 
 VLDB15:Gobblin: Unifying Data Ingestion for Hadoop
 
+SIGMOD14:Characterizing and Selecting Fresh Data Sources
+
 VLDB13:Mosquito: Another One Bites the Data Upload Stream
 
 VLDB13:Big Data Integration
@@ -391,6 +467,10 @@ VLDB14:Optimization for iterative queries on MapReduce
 VLDB14:SQL-on-Hadoop: Full Circle Back to Shared-Nothing Database Architectures(Hive vs Tez vs Impala)
 
 VLDB14:Understanding Insights into the Basic Structure and Essential Issues of Table Placement Methods in Clusters
+
+SIGMOD14:Anti-Combining For MapReduce 
+
+SIGMOD14:Opportunistic Physical Design for Big Data Analytics 
 
 VLDB13:XORing Elephants: Novel Erasure Codes for Big Data
 
@@ -457,6 +537,14 @@ VLDB14: Ibex—An Intelligent Storage Engine with Support for Advanced SQL Off-l
 
 VLDB14:Concurrent Analytical Query Processing with GPUs
 
+SIGMOD14:Patience is a Virtue: Revisiting Merge and Sort on Modern Processors
+
+SIGMOD14:Morsel-Driven Parallelism: A NUMA-Aware Query Evaluation Framework for the Many-Core Age
+
+SIGMOD14:A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort
+
+SIGMOD14:An Application-Specific Instruction Set for Accelerating Set-Oriented Database Primitives 
+
 VLDB13:Revisiting Co-Processing for Hash Joins on the Coupled CPU-GPU Architecture
 
 VLDB13:Hardware-Oblivious Parallelism for In-Memory Column-Stores
@@ -485,6 +573,8 @@ VLDB11:Efficiently Compiling Efficient Query Plans for Modern Hardware
 SIGMOD15:Overview of Data Exploration Techniques
 
 SIGMOD15:Data Management in Non-Volatile Memory
+
+SIGMOD14:How to Stop Under-Utilization and Love Multicores
 
 VLDB11:New Frontiers in Business Intelligence
 

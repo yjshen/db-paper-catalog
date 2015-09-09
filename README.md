@@ -142,6 +142,7 @@ VLDB11:Online Expansion of Large-Scale Data Warehouses
 
 VLDB11: VLDB11:Profiling, What-if Analysis, and Cost-based Optimization of MapReduce Programs
 
+ICDE11:Hyrax: A Flexible and Extensible Foundation for Data-Intensive Computing
 
 
 ## Time Series
@@ -204,6 +205,10 @@ ICDE12:Accuracy-Aware Uncertain Stream Databases
 VLDB11:Active Complex Event Processing over Event Streams
 
 VLDB11:Massive Scale-out of Expensive Continuous Queries
+
+ICDE11:Memory-Constrained Aggregate Computation over Data Streams
+
+ICDE11:SQPR: Stream Query Planning with Reuse
 
 
 ## Interactive / time constriant
@@ -339,6 +344,10 @@ ICDE13:Identifying Hot and Cold Data in Main-Memory Databases
 
 ICDE12:GSLPI: A Cost-Based Query Progress Indicator
 
+ICDE11:Interactive SQL Query Suggestion: Making Databases User-Friendly
+
+ICDE11:Predicting In-Memory Database Performance for Automating Cluster Management Tasks
+
 
 ## Approximate Evaluation
 VLDB14:Error-bounded Sampling for Analytics on Big Sparse Data
@@ -427,6 +436,8 @@ VLDB11:Column-Oriented Storage Techniques for MapReduce
 
 VLDB11:Compression Aware Physical Database Design
 
+ICDE11:RCFile: A Fast and Space-efficient Data Placement Structure in MapReduce-based Warehouse Systems
+
 
 ## Index
 VLDB15:Indexing Highly Dynamic Hierarchical Data 
@@ -485,6 +496,8 @@ VLDB11:A Framework for Supporting DBMS-like Indexes in the Cloud
 
 VLDB11:Merging What's Cracked, Cracking What's Merged: Adaptive Indexing in Main-Memory Column
 
+ICDE11:Partitioning Techniques for Fine-grained Indexing
+
 
 ## View
 VLDB15:Stale View Cleaning: Getting Fresh Answers from Stale materialized views
@@ -526,6 +539,10 @@ VLDB12:Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Sy
 ICDE12:Effective and Robust Pruning for Top-Down Join Enumeration Algorithms
 
 VLDB11:Accelerating Queries with Group-By and Join by Groupjoin
+
+ICDE11:A New, Highly Efficient and Easy To Implement Top-Down Join Enumeration Algorithm (Best Paper)
+
+ICDE11:PrefJoin: An Efficient Preference-aware Join Operator
 
 
 ## ETL

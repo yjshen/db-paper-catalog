@@ -12,6 +12,8 @@ VLDB15:The Dataflow Model: A Practical Approach to Balancing Correctness, Latenc
 
 VLDB15:Collaborative Data Analytics with DataHub
 
+VLDB15:AsterixDB: A Scalable, Open Source BDMS
+
 SIGMOD15:Apache Tez: A Unifying Framework for Modeling and Building Data Processing Applications
 
 SIGMOD15:Spark SQL: Relational Data Processing in Spark
@@ -25,6 +27,14 @@ SIGMOD15:Large-scale Predictive Analytics in Vertica: Fast Data Transfer, Distri
 SIGMOD15:Oracle Workload Intelligence
 
 SIGMOD15:On Improving User Response Times in Tableau
+
+ICDE15:PABIRS: A Data Access Middleware for Distributed File Systems
+
+ICDE15:Towards a Web-scale Data Management Ecosystem Demonstrated by SAP HANA
+
+ICDE15:"Anti-Caching"-based Elastic Memory Management for Big Data
+
+ICDE15:Accelerating Big Data Analytics With Collaborative Planning in Teradata Aster 6
 
 VLDB14:epiC: an Extensible and Scalable System for Processing Big Data
 
@@ -54,7 +64,19 @@ SIGMOD14:Towards Unified Ad-hoc Data Processing
 
 SIGMOD14:HAWQ: A Massively Parallel Processing SQL Engine in Hadoop 
 
-SIGMOD14:Major Technical Advancements in Apache Hive 
+SIGMOD14:Major Technical Advancements in Apache Hive
+
+ICDE14:Blazes: Coordination Analysis for Distributed Programs
+
+ICDE14:DBDesigner: A Customizable Physical Design Tool for Vertica Analytic Database
+
+ICDE14:Locality-Sensitive Operators for Parallel Main-Memory Database Clusters
+
+ICDE13:Big Data Analytics at Facebook
+
+ICDE13:EAGRE: Towards Scalable I/O Efficient SPARQL Query Evaluation on the Cloud
+
+ICDE13:C-Cube: Elastic Continuous Clustering in the Cloud
 
 VLDB13:MillWheel: Fault-Tolerant Stream Processing at Internet Scale
 
@@ -84,7 +106,7 @@ VLDB13:Google Data 2020 - The next challenges in big data
 
 VLDB13:DiAl: Distributed Streaming Analytics Anywhere, Anytime
 
-VLDB15:AsterixDB: A Scalable, Open Source BDMS
+ICDE13:Robust Distributed Stream Processing
 
 VLDB12:PIQL: Success-Tolerant Query Processing in the Cloud
 
@@ -105,6 +127,14 @@ VLDB12:A Demonstration of DBWipes: Clean as You Query
 VLDB12:ASTERIX: An Open Source System for "Big Data" Management and Analysis (Demo)
 
 VLDB12:Model-based Integration of Past & Future in TimeTravel
+
+ICDE12:BestPeer++: A Peer-to-Peer Based Large-Scale Data Processing Platform
+
+ICDE12:Vectorwise: A Vectorized Analytical DBMS
+
+ICDE12:Earlybird: Real-Time Search at Twitter
+
+ICDE12:Data Infrastructure at LinkedIn
 
 VLDB11:Using Paxos to Build a Scalable, Consistent, and Highly Available Datastore
 
@@ -141,6 +171,16 @@ SIGMOD15:CE-Storm: Confidential Elastic Processing of Data Streams
 
 SIGMOD15:Quality-Driven Continuous Query Execution over Out-of-Order Data Streams
 
+ICDE15:The Power of Both Choices: Practical Load Balancing for Distributed Stream Processing Engines
+
+ICDE15:Piecewise Linear Approximation of Streaming Time Series Data with Max-error Guarantees
+
+ICDE15:On Historical Diagnosis of Sensor Streams
+
+ICDE15:ChronoStream: Elastic Stateful Stream Computation in the Cloud
+
+ICDE15:Configurable Hardware-based Streaming Architecture using Online Programmable-Blocks
+
 VLDB14:High Performance Stream Query Processing With Correlation-Aware Partitioning
 
 SIGMOD14:Complex Event Analytics: Online Aggregation of Stream Sequence Patterns
@@ -156,6 +196,10 @@ VLDB12:Spinning Fast Iterative Data Flows
 VLDB12:Building User-defined Runtime Adaptation Routines for Stream Processing Applications
 
 VLDB12:MonetDB/DataCell: Online Analytics in a Streaming Column-Store
+
+ICDE12:A General Method for Estimating Correlated Aggregates over a Data Stream
+
+ICDE12:Accuracy-Aware Uncertain Stream Databases
 
 VLDB11:Active Complex Event Processing over Event Streams
 
@@ -179,6 +223,10 @@ SIGMOD14:Druid: A Real-time Analytical Data Store
 
 SIGMOD14:OceanRT: Real-Time Analytics over Large Temporal Data
 
+ICDE14:R-Store: A Scalable Distributed System for Supporting Real-time Analytics
+
+ICDE14:Distributed Interactive Cube Exploration
+
 VLDB12:Optimization of Analytic Window Functions
 
 VLDB11:Analytics for the Real-Time Web
@@ -192,6 +240,10 @@ VLDB15:query optmization in Oracle 12c Database In-Memory
 SIGMOD15:The Flatter, the Better: Query Compilation Based on the Flattening Transformation
 
 SIGMOD15:An Incremental Anytime Algorithm for Multi-Objective Query Optimization
+
+ICDE15:Automatic Tuning of Bag-of-Tasks Applications
+
+ICDE15:Cache-Oblivious Scheduling of Shared Workloads
 
 VLDB14:Shared Workload Optimization
 
@@ -217,6 +269,14 @@ SIGMOD14:Versatile Optimization of UDF-heavy Data Flows with Sofa
 
 SIGMOD14:Reactive and Proactive Sharing Across Concurrent Analytical Queries
 
+ICDE14:The Vertica Query Optimizer: The Case for Specialized Query Optimizers
+
+ICDE14:Waste Not... Efficient Co-Processing of Relational Data
+
+ICDE14:History-aware Query Optimization with Materialized Intermediate Views
+
+ICDE14:Decorrelation of User Defined Function Invocations in Queries
+
 VLDB13:PAQO: A Preference-Aware Query Optimizer for PostgreSQL
 
 VLDB13:Learning and Intelligent Optimization: one ring to rule them all
@@ -229,11 +289,27 @@ VLDB13:Just-in-time compilation for SQL query processing
 
 VLDb13:Sharing Data and Work Across Concurrent Analytical Queries
 
+ICDE13:Recycling in Pipelined Query Evaluation
+
+ICDE13:Predicting Query Execution Time: Are Optimizer Cost Models Really Unusable?
+
+ICDE13:Top Down Plan Generation: From Theory to Practice
+
 VLDB12:SharedDB: Killing One Thousand Queries With One Stone
 
 vldb12:Opening the Black Boxes in Data Flow Optimization
 
 VLDB12:PET: Reducing Database Energy Cost via Query Optimization
+
+ICDE12:Learning-based Query Performance Modeling and Prediction
+
+ICDE12:Parametric Plan Caching Using Density-Based Clustering
+
+ICDE12:Optimization of Massive Pattern Queries by Dynamic Configuration Morphing
+
+ICDE12:Three-Level Processing of Multiple Aggregate Continuous Queries
+
+ICDE12:Exploiting Common Subexpressions for Cloud Query Processing
 
 
 ## DB General
@@ -255,7 +331,13 @@ SIGMOD14:Sloth: Being Lazy is a Virtue (When Issuing Database Queries)
 
 SIGMOD14:Versatile Optimization of UDF-heavy Data Flows with Sofa
 
-SIGMOD14:Palette: Enabling Scalable Analytics for Big-Memory, Multicore Machines 
+SIGMOD14:Palette: Enabling Scalable Analytics for Big-Memory, Multicore Machines
+
+ICDE13:CPU and Cache Efficient Management of Memory-Resident Databases
+
+ICDE13:Identifying Hot and Cold Data in Main-Memory Databases
+
+ICDE12:GSLPI: A Cost-Based Query Progress Indicator
 
 
 ## Approximate Evaluation
@@ -303,6 +385,10 @@ VLDB12:Towards Energy-Efficient Database Cluster Design
 
 VLDB12:Building Wavelet Histograms on Large Data in MapReduce
 
+ICDE12:Load Balancing in MapReduce Based on Scalable Cardinality Estimates
+
+ICDE12:Scalable and Numerically Stable Descriptive Statistics in SystemML
+
 VLDB11:MapReduce Programming and Cost-based Optimization? Crossing this Chasm with Starfish
 
 VLDB11:Profiling, What-if Analysis, and Cost-based Optimization of MapReduce Programs
@@ -314,6 +400,8 @@ VLDB11:Storing Matrices on Disk: Theory and Practice Revisited
 SIGMOD15:ByteSlice: Pushing the Envelop of Main Memory Data Processing with a New Storage Layout
 
 SIGMOD15:Telco Churn Prediction with Big Data
+
+ICDE15:Oracle Database In-Memory: A Dual Format In-Memory Database
 
 SIGMOD14:MISO: Souping Up Big Data Query Processing with a Multistore System
 
@@ -331,6 +419,8 @@ VLDB12:A Storage Advisor for Hybrid-Store Databases
 
 VLDB12:Relative Lempel-Ziv Factorization for Efficient Storage and Retrieval of Web Collections
 
+ICDE12:Lookup Tables: Fine-Grained Partitioning for Distributed Databases
+
 VLDB11:HYRISE - A Main Memory Hybrid Storage Engine
 
 VLDB11:Column-Oriented Storage Techniques for MapReduce
@@ -346,6 +436,12 @@ VLDB15:BF-Tree: Approximate Tree Indexing
 VLDB15:Compressed Spatial Hierarchical Bitmap (cSHB) Indexes for Efficiently Processing Spatial Range Query Workloads
 
 SIGMOD15:Holistic Indexing in Main-memory Column-stores
+
+ICDE15:Smooth Scan: Statistics-Oblivious Access Paths
+
+ICDE15:A Comparison of Adaptive Radix Trees and Hash Tables
+
+ICDE15:High Performance Temporal Indexing on Modern Hardware
 
 VLDB14:The Uncracked Pieces in Database Cracking
 
@@ -363,15 +459,23 @@ SIGMOD14:Indexing for Interactive Exploration of Big Data Series
 
 SIGMOD14:Indexing on Modern Hardware: Hekaton and Beyond 
 
+ICDE14:A Tunable Compression Framework for Bitmap Indices
+
 VLDB13:A Performance Study of Three Disk-based Structures for Indexing and Querying Frequent Itemsets
 
 VLDB13:A Data-adaptive and Dynamic Segmentation Index for Whole Matching on Time Series
 
 VLDB13:Efficient Indexing for Diverse Query Results
 
+ICDE13:The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases
+
+ICDE13:An Efficient and Compact Indexing Scheme for Large-scale Data Store
+
 VLDB12:Semi-Automatic Index Tuning: Keeping DBAs in the Loop
 
 VLDB12:Stochastic Database Cracking: Towards Robust Adaptive Indexing in Main-Memory Column-Stores
+
+ICDE12:Making Unstructured Data SPARQL Using Semantic Indexing in Oracle Database
 
 VLDB11:CoPhy: A Scalable, Portable, and Interactive Index Advisor for Large Workloads
 
@@ -388,6 +492,8 @@ VLDB15:Stale View Cleaning: Getting Fresh Answers from Stale materialized views
 SIGMOD15:Utilizing IDs to Accelerate Incremental View Maintenance
 
 SIGMOD14:LINVIEW: Incremental View Maintenance for Complex Analytical Queries
+
+ICDE13:Materialization Strategies in the Vertica Analytic Database: Lessons Learned
 
 VLDB12:DBToaster: Higher order delta processing for dynamic frequently fresh views
 
@@ -416,6 +522,8 @@ VLDB14:Advanced Join Strategies for Large-Scale Distributed Computation
 VLDB14:Interactive Join Query Inference with JIM
 
 VLDB12:Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems
+
+ICDE12:Effective and Robust Pruning for Top-Down Join Enumeration Algorithms
 
 VLDB11:Accelerating Queries with Group-By and Join by Groupjoin
 
@@ -460,6 +568,12 @@ VLDB15:Spatial Partitioning Techniques in SpatialHadoop
 
 VLDB15:Tutorial: SQL-on-Hadoop Systems
 
+ICDE15:DualTable: A Hybrid Storage Model for Update Optimization in Hive
+
+ICDE15:HaTen2: Billion-scale Tensor Decompositions
+
+ICDE15:Groupwise Analytics via Adaptive MapReduce
+
 VLDB14:Multi-Query Optimization in MapReduce Framework
 
 VLDB14:Optimization for iterative queries on MapReduce
@@ -477,6 +591,8 @@ VLDB13:XORing Elephants: Novel Erasure Codes for Big Data
 VLDB13:Optimization Strategies for A/B Testing on HADOOP
 
 VLDB13:Piranha: Optimizing Short Jobs in Hadoop
+
+ICDE13:SASH: Enabling Continuous Incremental Analytic Workflows on Hadoop
 
 VLDB12:Putting Lipstick on Pig: Enabling Database-style Workflow Provenance
 
@@ -504,6 +620,8 @@ VLDB12:Efficient Big Data Processing in Hadoop MapReduce
 
 VLDB12:MapReduce Algorithms for Big Data Analysis
 
+ICDE12:Extending Map-Reduce for Efficient Predicate-Based Sampling
+
 VLDB11:Automatic Optimization for MapReduce Programs
 
 VLDB11:CoHadoop: Flexible Data Placement and Its Exploitation in Hadoop
@@ -526,6 +644,12 @@ VLDB15:SIMD- and Cache-Friendly Algorithm for sorting an array of structure
 VLDB15:Scaling Up Concurrent Main-Memory Column-Store Scans: Towards Adaptive NUMA-aware Data and Task Placement
 
 SIGMOD15:JAFAR: Near-Data Processing for Databases
+
+ICDE15:Evolving the Architecture of SQL Server for Modern Hardware Trends
+
+ICDE15:In-Memory BLU Acceleration in IBM’s DB2 and dashDB: Optimized for Modern Workloads and Hardware Architectures
+
+ICDE15:Accelerating Aggregation using Intra-cycle Parallelism
 
 VLDB14:CPU Sharing Techniques for Performance Isolation in Multi-tenant Relational Database-as-a-Service
 
@@ -558,6 +682,10 @@ VLDb13:Flexible Query Processor on FPGAs
 VLDB13:OmniDB: Towards Portable and Efficient Query Processing on Parallel CPU/GPU Architectures
 
 VLDB13:Why it is time for a HyPE: A Hybrid Query Processing Engine for Efficient GPU Coprocessing in DBMS
+
+ICDE13:Efficient Many-Core Query Execution in Main Memory Column-Stores
+
+ICDE13:Main-Memory Hash Joins on Multi-Core CPUs: Tuning to the Underlying Hardware
 
 VLDB12:hStorage-DB: Heterogeneity-aware Data Management to Exploit the Full Capability of Hybrid Storage Systems
 

@@ -106,6 +106,28 @@ VLDB13:Google Data 2020 - The next challenges in big data
 
 VLDB13:DiAl: Distributed Streaming Analytics Anywhere, Anytime
 
+SIGMOD13:Cumulon: Optimizing Statistical Data Analysis in the Cloud
+
+SIGMOD13:Shark: SQL and Rich Analytics at Scale
+
+SIGMOD13:Parallel Analytics as a Service
+
+SIGMOD13:BitWeaving: Fast Scans for Main Memory Data Processing
+
+SIGMOD13:The "Big Data" Ecosystem at LinkedIn
+
+SIGMOD13:On Brewing Fresh Espresso: LinkedIn's Distributed Data Serving Platform
+
+SIGMOD13:Fast Data in the Era of Big Data: Twitter's Real-Time Related Query Suggestion Architecture
+
+SIGMOD13:Petabyte Scale Databases and Storage Systems at Facebook
+
+SIGMOD13:Split Query Processing in Polybase
+
+SIGMOD13:WoW: What the World of (Data) Warehousing Can Learn from the World of Warcraft
+
+SIGMOD13:Speeding up Database Applications with Pyxis
+
 ICDE13:Robust Distributed Stream Processing
 
 VLDB12:PIQL: Success-Tolerant Query Processing in the Cloud
@@ -128,6 +150,20 @@ VLDB12:ASTERIX: An Open Source System for "Big Data" Management and Analysis (De
 
 VLDB12:Model-based Integration of Past & Future in TimeTravel
 
+SIGMOD12:NoDB: Efficient Query Execution on Raw Data Files
+
+SIGMOD12:Amazon DynamoDB: A Seamlessly Scalable Non-Relational Datastore
+
+SIGMOD12:Efficient Transaction Processing in SAP HANA Database--The End of a Column Store Myth
+
+SIGMOD12:Walnut: A Unified Cloud Object Store
+
+SIGMOD12:F1-The Fault-Tolerant Distributed RDBMS Supporting Google's Ad Business
+
+SIGMOD12:Oracle In-Database Hadoop: When MapReduce Meets RDBMS
+
+SIGMOD12:Optimizing Analytic Data Flows for Multiple Execution Engines
+
 ICDE12:BestPeer++: A Peer-to-Peer Based Large-Scale Data Processing Platform
 
 ICDE12:Vectorwise: A Vectorized Analytical DBMS
@@ -141,6 +177,8 @@ VLDB11:Using Paxos to Build a Scalable, Consistent, and Highly Available Datasto
 VLDB11:Online Expansion of Large-Scale Data Warehouses
 
 VLDB11: VLDB11:Profiling, What-if Analysis, and Cost-based Optimization of MapReduce Programs
+
+SIGMOD11:Efficient Processing of Data Warehousing Queries in a Split Execution Environment
 
 ICDE11:Hyrax: A Flexible and Extensible Foundation for Data-Intensive Computing
 
@@ -190,6 +228,12 @@ SIGMOD14:On Complexity and Optimization of Expensive Queries in Complex Event Pr
 
 SIGMOD14:Storm @Twitter
 
+SIGMOD13:Photon: Fault-tolerant and Scalable Joining of Continuous Data Streams
+
+SIGMOD13:Integrating Scale Out and Fault Tolerance in Stream Processing using Operator State Management
+
+SIGMOD13:Quantiles over Data Streams: An Experimental Study
+
 VLDB12:Sketch-based Querying of Distributed Sliding-Window Data Streams
 
 VLDB12:Spinning Fast Iterative Data Flows
@@ -205,6 +249,8 @@ ICDE12:Accuracy-Aware Uncertain Stream Databases
 VLDB11:Active Complex Event Processing over Event Streams
 
 VLDB11:Massive Scale-out of Expensive Continuous Queries
+
+SIGMOD11:How Soccer Players Would Do Stream Joins
 
 ICDE11:Memory-Constrained Aggregate Computation over Data Streams
 
@@ -302,9 +348,19 @@ ICDE13:Top Down Plan Generation: From Theory to Practice
 
 VLDB12:SharedDB: Killing One Thousand Queries With One Stone
 
-vldb12:Opening the Black Boxes in Data Flow Optimization
+VLDB12:Opening the Black Boxes in Data Flow Optimization
 
 VLDB12:PET: Reducing Database Energy Cost via Query Optimization
+
+SIGMOD12:Holistic Optimization by Prefetching Query Results
+
+SIGMOD12:Query Optimization in Microsoft SQL Server PDW
+
+SIGMOD12:Recurring Job Optimization in Scope
+
+SIGMOD12:Adaptive Optimizations of Recursive Queries in Teradata
+
+SIGMOD12:From X100 to Vectorwise: Opportunities, Challenges and Things Most Researchers Do Not Think About 
 
 ICDE12:Learning-based Query Performance Modeling and Prediction
 
@@ -315,6 +371,8 @@ ICDE12:Optimization of Massive Pattern Queries by Dynamic Configuration Morphing
 ICDE12:Three-Level Processing of Multiple Aggregate Continuous Queries
 
 ICDE12:Exploiting Common Subexpressions for Cloud Query Processing
+
+SIGMOD11:Query Optimization Techniques for Partitioned Tables
 
 
 ## DB General
@@ -338,11 +396,23 @@ SIGMOD14:Versatile Optimization of UDF-heavy Data Flows with Sofa
 
 SIGMOD14:Palette: Enabling Scalable Analytics for Big-Memory, Multicore Machines
 
+SIGMOD13:DBMS Metrology: Measuring Query Time
+
+SIGMOD13:Reverse Engineering Complex Join Queries
+
+SIGMOD13:Micro Adaptivity in Vectorwise
+
 ICDE13:CPU and Cache Efficient Management of Memory-Resident Databases
 
 ICDE13:Identifying Hot and Cold Data in Main-Memory Databases
 
+SIGMOD12:Advanced Partitioning Techniques for Massively Distributed Computation
+
+SIGMOD12:Efficient External-Memory Bisimulation on DAGs
+
 ICDE12:GSLPI: A Cost-Based Query Progress Indicator
+
+SIGMOD11:Predicting Cost Amortization for Query Services
 
 ICDE11:Interactive SQL Query Suggestion: Making Databases User-Friendly
 
@@ -383,6 +453,10 @@ SIGMOD14:Exploiting Ordered Dictionaries to Efficiently Construct Histograms wit
 VLDB13:Upper and Lower Bounds on the Cost of a Map-Reduce Computation
 
 VLDB13:Towards Predicting Query Execution Time for Concurrent and Dynamic Database Workloads
+
+SIGMOD13:CS2: A New Database Synopsis for Query Estimation
+
+SIGMOD13:On the Correct and Complete Enumeration of the Core Search Space
 
 VLDB12:A Statistical Approach Towards Robust Progress Estimation
 
@@ -478,6 +552,12 @@ VLDB13:A Data-adaptive and Dynamic Segmentation Index for Whole Matching on Time
 
 VLDB13:Efficient Indexing for Diverse Query Results
 
+SIGMOD13:Column Imprints: A Secondary Index Structure
+
+SIGMOD13:Timeline Index: A Unified Data Structure for Processing Queries on Temporal Data in SAP HANA
+
+SIGMOD13:Enhancements to SQL Server Column Stores 
+
 ICDE13:The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases
 
 ICDE13:An Efficient and Compact Indexing Scheme for Large-scale Data Store
@@ -495,6 +575,8 @@ VLDB11:Workload Driven Index Defragmentation
 VLDB11:A Framework for Supporting DBMS-like Indexes in the Cloud
 
 VLDB11:Merging What's Cracked, Cracking What's Merged: Adaptive Indexing in Main-Memory Column
+
+SIGMOD11:SQL Server Column Store Indexes
 
 ICDE11:Partitioning Techniques for Fine-grained Indexing
 
@@ -637,11 +719,19 @@ VLDB12:Efficient Big Data Processing in Hadoop MapReduce
 
 VLDB12:MapReduce Algorithms for Big Data Analysis
 
+SIGMOD12:SkewTune: Mitigating Skew in MapReduce Applications
+
 ICDE12:Extending Map-Reduce for Efficient Predicate-Based Sampling
 
 VLDB11:Automatic Optimization for MapReduce Programs
 
 VLDB11:CoHadoop: Flexible Data Placement and Its Exploitation in Hadoop
+
+SIGMOD11:Apache Hadoop Goes Realtime at Facebook
+
+SIGMOD11:Nova: Continuous Pig/Hadoop Workflows
+
+SIGMOD11:A Hadoop Based Distributed Loading Approach to Parallel Data Warehouses
 
 
 
@@ -694,11 +784,13 @@ VLDB13:The Yin and Yang of Processing Data Warehousing Queries on GPU Devices
 
 VLDB13:Microsoft SQL Server’s Integrated Database Approach for Modern Applications and Hardware
 
-VLDb13:Flexible Query Processor on FPGAs
+VLDB13:Flexible Query Processor on FPGAs
 
 VLDB13:OmniDB: Towards Portable and Efficient Query Processing on Parallel CPU/GPU Architectures
 
 VLDB13:Why it is time for a HyPE: A Hybrid Query Processing Engine for Efficient GPU Coprocessing in DBMS
+
+SIGMOD13:Query Processing on Smart SSDs: Opportunities and Challenges
 
 ICDE13:Efficient Many-Core Query Execution in Main Memory Column-Stores
 
@@ -712,6 +804,12 @@ VLDB11:Fast Set Intersection in Memory
 
 VLDB11:Efficiently Compiling Efficient Query Plans for Modern Hardware
 
+SIGMOD11:LazyFTL: A Page-level Flash Translation Layer Optimized for NAND Flash Memory
+
+SIGMOD11:Operation-Aware Buffer Management in Flash-based Systems
+
+SIGMOD11:4. Design and Evaluation of Main Memory Hash Join Algorithms for Multi-core CPUs
+
 
 ## Tutorial
 
@@ -720,6 +818,10 @@ SIGMOD15:Overview of Data Exploration Techniques
 SIGMOD15:Data Management in Non-Volatile Memory
 
 SIGMOD14:How to Stop Under-Utilization and Love Multicores
+
+SIGMOD14:Workload Management for Big Data Analytics
+
+SIGMOD13:Data Stream Warehousing
 
 VLDB11:New Frontiers in Business Intelligence
 
